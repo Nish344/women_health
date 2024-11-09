@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2024-11-09T17:21:51.850488",
+    "user_age": "18",
+    "symptoms": "lump in left breast, hardness in the lump, skin redness, skin dimpling",
+    "severity": "mild",
+    "duration": "2 months",
+    "diagnosis": [
+      "breast cancer",
+      "breast abscess",
+      "mastitis"
+    ],
+    "recommendations": [
+      "see a doctor immediately",
+      "have a mammogram and ultrasound",
+      "avoid smoking and alcohol",
+      "reduce stress"
+    ]
+  },
+  {
+    "timestamp": "2024-11-09T17:24:29.538715",
+    "user_age": "39",
+    "symptoms": "error",
+    "severity": "unknown",
+    "duration": "unknown",
+    "diagnosis": "parsing error",
+    "recommendations": "unable to provide recommendations"
+  },
+  {
+    "timestamp": "2024-11-09T17:40:26.996920",
+    "user_age": "18",
+    "symptoms": "severe stomach pain, irregular periods",
+    "severity": "mild",
+    "duration": "2 months",
+    "diagnosis": [
+      "Ovarian cyst",
+      "Pelvic inflammatory disease (PID)",
+      "Endometriosis",
+      "Uterine fibroids"
+    ],
+    "recommendations": [
+      "See a doctor as soon as possible to rule out any serious underlying conditions.",
+      "Keep a journal of your symptoms to help your doctor make a diagnosis.",
+      "Apply a warm compress to your abdomen to relieve pain.",
+      "Take over-the-counter pain relievers, such as ibuprofen or acetaminophen."
+    ]
+  },
+  {
+    "timestamp": "2024-11-09T17:56:45.479635",
+    "user_age": "18",
+    "symptoms": "severe stomach pain",
+    "severity": "mild",
+    "duration": "1 month",
+    "diagnosis": "Possible diagnoses include gastritis, peptic ulcer disease, pancreatitis, and irritable bowel syndrome.",
+    "recommendations": "Recommended actions include seeing a doctor for further evaluation, getting plenty of rest, drinking plenty of fluids, and eating a healthy diet."
+  },
+  {
+    "timestamp": "2024-11-09T21:01:15.372213",
+    "user_age": "18",
+    "symptoms": "stomach pain",
+    "severity": "mild",
+    "duration": "2 months",
+    "diagnosis": [
+      "Indigestion",
+      "Ulcer",
+      "Gastritis"
+    ],
+    "recommendations": [
+      "See a doctor",
+      "Take over-the-counter antacids",
+      "Change diet"
+    ]
+  }
+]

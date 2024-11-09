@@ -1,0 +1,103 @@
+{
+    "symptoms_categories": {
+        "general": [
+            "fever", "headache", "fatigue", "nausea", "dizziness",
+            "vomiting", "rash", "chills", "pain", "weakness"
+        ],
+        "breast_health": [
+            "breast_lump", "breast_pain", "nipple_discharge",
+            "breast_swelling", "skin_changes", "nipple_changes",
+            "breast_redness", "breast_dimpling"
+        ],
+        "reproductive_health": [
+            "irregular_periods", "heavy_periods", "missed_period",
+            "spotting", "pelvic_pain", "cramping", "vaginal_discharge",
+            "vaginal_odor", "itching", "bleeding_after_menopause"
+        ],
+        "pregnancy_related": [
+            "morning_sickness", "breast_tenderness", "missed_period",
+            "spotting", "cramping", "fatigue", "mood_changes",
+            "frequent_urination"
+        ],
+        "menopause_symptoms": [
+            "hot_flashes", "night_sweats", "mood_changes",
+            "vaginal_dryness", "sleep_problems", "weight_gain",
+            "thinning_hair", "loss_of_breast_fullness"
+        ]
+    },
+    "follow_up_questions": {
+        "breast_lump": [
+            "Where exactly is the lump located?",
+            "When did you first notice it?",
+            "Has the size changed since you first noticed it?",
+            "Is it painful to touch?",
+            "Do you perform regular breast self-exams?",
+            "When was your last mammogram?"
+        ],
+        "breast_pain": [
+            "Is the pain in one breast or both?",
+            "Is it constant or intermittent?",
+            "Does it change with your menstrual cycle?",
+            "How would you rate the pain from 1-10?"
+        ],
+        "nipple_discharge": [
+            "What color is the discharge?",
+            "Is it from one breast or both?",
+            "Is it spontaneous or only when pressed?",
+            "When did you first notice it?"
+        ],
+        "irregular_periods": [
+            "How long has your cycle been irregular?",
+            "What's the typical length between periods?",
+            "Have you noticed any pattern to the irregularity?",
+            "Are you currently using any hormonal contraception?"
+        ],
+        "heavy_periods": [
+            "How many pads/tampons do you use per day?",
+            "Do you pass blood clots?",
+            "Does it affect your daily activities?",
+            "Have you experienced any dizziness or extreme fatigue?"
+        ],
+        "pelvic_pain": [
+            "Where exactly is the pain located?",
+            "Is it constant or does it come and go?",
+            "Does it occur during specific activities?",
+            "Is it related to your menstrual cycle?",
+            "Have you had any previous pelvic surgeries?"
+        ],
+        "hot_flashes": [
+            "How frequently do they occur?",
+            "How long do they typically last?",
+            "Do they occur at specific times?",
+            "What triggers them?"
+        ],
+        "morning_sickness": [
+            "How often do you experience nausea?",
+            "What time of day is it worst?",
+            "Are you able to keep food down?",
+            "Have you lost any weight?"
+        ]
+    },
+    "risk_assessment": {
+        "breast_cancer": [
+            "Do you have a family history of breast cancer?",
+            "Have you had any previous breast biopsies?",
+            "At what age did you get your first period?",
+            "Have you ever given birth? If yes, at what age was your first full-term pregnancy?",
+            "Are you currently using or have you used hormone replacement therapy?"
+        ],
+        "cervical_cancer": [
+            "When was your last Pap smear?",
+            "Have you ever had an abnormal Pap result?",
+            "Have you been vaccinated against HPV?",
+            "Do you smoke or have you smoked in the past?",
+            "Have you had multiple sexual partners?"
+        ],
+        "ovarian_cancer": [
+            "Do you have a family history of ovarian cancer?",
+            "Have you ever used oral contraceptives?",
+            "Have you gone through menopause?",
+            "Have you ever been diagnosed with endometriosis?"
+        ]
+    }
+}
